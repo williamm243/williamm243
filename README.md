@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me ...
 mobile number +254710489328
-Email : williammorara28@
+
+Email : williammorara28@gmail.com
+
 LINKEDIN : https://www.linkedin.com/in/william-morara-92b659236
 <!---
 williamm243/williamm243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
